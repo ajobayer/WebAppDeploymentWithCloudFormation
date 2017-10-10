@@ -112,7 +112,4 @@ system within 20-30 minutes through AWS CloudFormation. You may want to
 just review the pricing of the AWS components on pay-as-you-use mode to
 make a call on migration to AWS. 
 
-![D:\\CTS\\POC-CloudFormation-3Tire\\documents\\aws architecture for web
-hosting.png](media/image1.png){width="5.890094050743657in"
-height="9.320754593175852in"}
 ![alt text](https://github.com/ajobayer/WebAppDeploymentWithCloudFormation/blob/master/Documents/aws%20architecture%20for%20web%20hosting.png)
